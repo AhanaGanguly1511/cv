@@ -39,7 +39,7 @@ background-size: cover;
 {
     width:60%;
     position:absolute;
-    top:80%;
+    top:70%;
     left:20%;
     font-size: 300%;
     font-family: 'Lobster Two', cursive;
@@ -78,5 +78,5 @@ padding-top:4% ;
 .bottom
 {
     position: absolute;
-    top:350%;
+    top:300%;
 }
