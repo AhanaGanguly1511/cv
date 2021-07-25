@@ -17,12 +17,6 @@ background-attachment: fixed;
 on the container’s size */
 background-size: cover;
 }
-.bottom
-{
-  
-}
-
-
 
 .ico
 {   margin-top: 10%;
@@ -45,7 +39,7 @@ background-size: cover;
 {
     width:60%;
     position:absolute;
-    top:70%;
+    top:100%;
     left:20%;
     font-size: 300%;
     font-family: 'Lobster Two', cursive;
@@ -80,4 +74,10 @@ padding-top:4% ;
 {
     color:#da0037;
     text-decoration-line: underline;
+}
+.bottom
+{
+    position: absolute;
+    top:400%;
+    text-align: center;
 }
