@@ -2,7 +2,7 @@ body{
     font-family: cursive;
     margin: 0%;
     background-color: #f4f9f9;
-    height: 2000px;
+    height: 1500px;
     /* Background image is centered vertically and horizontally at all times */
 background-position: center center;
 
@@ -17,12 +17,15 @@ background-attachment: fixed;
 on the container’s size */
 background-size: cover;
 }
-
+.bottom
+{
+  
+}
 
 
 
 .ico
-{   margin-top: 1850px;
+{   margin-top: 10%;
     height: 80px;
     width:80px;
     padding-right:5%;
