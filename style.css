@@ -20,26 +20,14 @@ background-size: cover;
 
 
 
-.contact
-{
-    color:white;
-    position: absolute;
-    top:1800px;
-    left:45%;
-    font-size: 200%;
-    text-decoration-line: none;
-}
+
 .ico
 {   margin-top: 1850px;
     height: 80px;
     width:80px;
     padding-right:5%;
 }
-.cont:hover
-{
-color: lightcoral;
-text-decoration-line: underline;
-}
+
 .intro
 {   margin: none auto auto none;
     width:60%;
@@ -70,4 +58,23 @@ text-decoration-line: underline;
     color:violet;
     text-decoration-line:underline;
 
+}
+.bar
+{width: 60%;
+height:100px;
+background-color: white;
+border-radius: 100%;
+font-size:400%;
+font-family: 'Ruslan Display', cursive;
+padding-top:4% ;
+}
+.lin
+{
+    color:black;
+    text-decoration-line: none;
+}
+.hov2:hover
+{
+    color:#da0037;
+    text-decoration-line: underline;
 }
