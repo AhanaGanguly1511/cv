@@ -30,7 +30,7 @@ background-size: cover;
     text-decoration-line: none;
 }
 .ico
-{   padding-top: 1850px;
+{   margin-top: 1850px;
     height: 80px;
     width:80px;
     padding-right:5%;
@@ -49,4 +49,14 @@ text-decoration-line: underline;
     color: white;
     font-size: 200%;
     font-family: 'Merienda', cursive;
+}
+.about
+{
+    width:60%;
+    position:absolute;
+    top:70%;
+    left:20%;
+    font-size: 250%;
+    font-family: 'Lobster Two', cursive;
+    color:white;
 }
