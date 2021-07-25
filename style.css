@@ -60,3 +60,14 @@ text-decoration-line: underline;
     font-family: 'Lobster Two', cursive;
     color:white;
 }
+.col
+{
+    color:#7dedff; text-decoration-line:none;
+}
+.hov:hover
+{
+    
+    color:violet;
+    text-decoration-line:underline;
+
+}
