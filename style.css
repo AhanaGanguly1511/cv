@@ -40,13 +40,13 @@ background-size: cover;
 color: lightcoral;
 text-decoration-line: underline;
 }
-.quote
+.intro
 {   margin: none auto auto none;
     width:60%;
     position: absolute;
-    top:18%;
+    top:10%;
     left:20%;
     color: white;
-    font-size: 300%;
+    font-size: 200%;
     font-family: 'Merienda', cursive;
 }
